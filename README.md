@@ -1,4 +1,4 @@
-# Budget Tracker App
+# Finance Manager Tracker App
 
 A simple and interactive budget tracking application that allows users to manage their budget and track their expenses efficiently. This app provides features for setting a budget, adding expenses, and viewing the balance.
 
